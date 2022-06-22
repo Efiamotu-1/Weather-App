@@ -10,7 +10,7 @@ body{
 .icon{
     position: relative;
     top : -50px;
-    border-radius: 50%;
+    border-radius: 60%;
     width: 100px;
     margin-bottom: -50px;
 }
